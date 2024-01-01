@@ -2,7 +2,7 @@
     "name": "jigar/module-helloworld",
     "description": "Sample module format to register your Magento 2 module as a Composer package with Packagist.",
     "type": "magento2-module",
-    "version": "2.8.0",
+    "version": "1.0.1",
     "license": "proprietary",
     "authors": [
         {
