@@ -1,0 +1,22 @@
+{
+    "name": "jigar/module-helloworld",
+    "description": "Sample module format to register your Magento 2 module as a Composer package with Packagist.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jigar K Karangiya",
+            "email": "jkkarangiya0999@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Jigar\\HelloWorld\\": ""
+        }
+    }
+}
